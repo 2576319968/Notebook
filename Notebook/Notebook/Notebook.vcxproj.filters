@@ -21,12 +21,24 @@
     <ClCompile Include="NoteLib.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="InitAccountFile.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="encryption.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="decode.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="add_data.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="data.h">
+    <ClInclude Include="NoteLib.h">
       <Filter>头文件</Filter>
     </ClInclude>
-    <ClInclude Include="NoteLib.h">
+    <ClInclude Include="data.h">
       <Filter>头文件</Filter>
     </ClInclude>
   </ItemGroup>

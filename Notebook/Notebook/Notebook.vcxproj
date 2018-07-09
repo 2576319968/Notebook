@@ -146,6 +146,10 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="add_data.cpp" />
+    <ClCompile Include="decode.cpp" />
+    <ClCompile Include="encryption.cpp" />
+    <ClCompile Include="InitAccountFile.cpp" />
     <ClCompile Include="NoteLib.cpp" />
     <ClCompile Include="Notebook.cpp" />
   </ItemGroup>

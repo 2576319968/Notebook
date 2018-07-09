@@ -6,6 +6,7 @@
 #include "data.h"
 //增、删、改、查、保存、退出
 
+char note[20][500];
 int main()
 {
 	int flat;
@@ -20,9 +21,10 @@ int main()
 				printf("账户创建失败\n");
 			}
 				break;
-// 		case ADD:
-// 			add_data(); break;
-// 		case DELE:
+		case ADD:
+			printf("正在输入，输入 '#' 结束：\n");
+			add_data(note); break;
+		case DELE:
 // 			delet_data(); break;
 // 		case CHANGE:
 // 			change_data(); break;
@@ -35,7 +37,7 @@ int main()
 		default:
 			break;
 		}
-		
+		printf("0、创建 1、增加 2、删除 3、修改 4、查看 5、保存 6、退出\n");
 	}
 	
 }
