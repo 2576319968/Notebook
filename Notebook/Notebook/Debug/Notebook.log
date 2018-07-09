@@ -1,13 +1,11 @@
-﻿  Notebook.cpp
-e:\15pbcode\c++\notebook\notebook\notebook.cpp(28): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+﻿  NoteLib.cpp
+e:\15pbcode\c++\notebook\notebook\notelib.cpp(18): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
   c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\conio.h(452): note: 参见“getch”的声明
-e:\15pbcode\c++\notebook\notebook\notebook.cpp(30): warning C4996: 'putch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _putch. See online help for details.
+e:\15pbcode\c++\notebook\notebook\notelib.cpp(20): warning C4996: 'putch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _putch. See online help for details.
   c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\conio.h(461): note: 参见“putch”的声明
-e:\15pbcode\c++\notebook\notebook\notebook.cpp(39): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+e:\15pbcode\c++\notebook\notebook\notelib.cpp(29): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
   c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\conio.h(452): note: 参见“getch”的声明
-e:\15pbcode\c++\notebook\notebook\notebook.cpp(41): warning C4996: 'putch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _putch. See online help for details.
+e:\15pbcode\c++\notebook\notebook\notelib.cpp(32): warning C4996: 'putch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _putch. See online help for details.
   c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\conio.h(461): note: 参见“putch”的声明
-e:\15pbcode\c++\notebook\notebook\notebook.cpp(71): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 参见“scanf”的声明
   Notebook.vcxproj -> E:\15PBCode\c++\Notebook\Debug\Notebook.exe
   Notebook.vcxproj -> E:\15PBCode\c++\Notebook\Debug\Notebook.pdb (Full PDB)

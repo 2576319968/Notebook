@@ -1,0 +1,5 @@
+﻿  main.cpp
+e:\15pbcode\c++\notebook\test\main.cpp(5): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\conio.h(452): note: 参见“getch”的声明
+  test.vcxproj -> E:\15PBCode\c++\Notebook\Debug\test.exe
+  test.vcxproj -> E:\15PBCode\c++\Notebook\Debug\test.pdb (Full PDB)

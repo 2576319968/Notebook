@@ -18,5 +18,16 @@
     <ClCompile Include="Notebook.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="NoteLib.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="data.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="NoteLib.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
