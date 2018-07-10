@@ -19,3 +19,4 @@ void encryption(char *str) {
 		i++;
 	}
 }
+

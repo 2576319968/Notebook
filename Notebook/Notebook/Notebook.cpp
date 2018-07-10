@@ -6,7 +6,7 @@
 #include "data.h"
 //增、删、改、查、保存、退出
 
-char note[20][1024];
+char note[1024];
 int main()
 {
 	int flat;
