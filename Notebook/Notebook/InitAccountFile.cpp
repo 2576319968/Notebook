@@ -3,6 +3,7 @@
 	@function:initAccountFile
 	@Descreaption:Creat new file in data folder
 	@author:wyxTrustYs
+	@argument:char* char*
 	@time:2018-7-9
 */
 

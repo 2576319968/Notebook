@@ -6,6 +6,6 @@
 
 int add_data(char (*str)[1024]) {
 	int i = 0;
-	while(gets())
+	while()
 	return 0;
 }

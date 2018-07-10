@@ -6,7 +6,7 @@
 #include "data.h"
 //增、删、改、查、保存、退出
 
-char note[20][500];
+char note[20][1024];
 int main()
 {
 	int flat;
@@ -24,7 +24,7 @@ int main()
 		case ADD:
 			printf("正在输入，输入 '#' 结束：\n");
 			add_data(note); break;
-		case DELE:
+// 		case DELE:
 // 			delet_data(); break;
 // 		case CHANGE:
 // 			change_data(); break;
